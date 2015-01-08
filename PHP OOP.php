@@ -80,5 +80,4 @@
       $dog1>silverado = "silverado";
       
       print "the cars name is {$car>ferrarimilan()}.""
-          //the cars name is chevy silverado
-      
+          //the cars name is ferrarimilan
